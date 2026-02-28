@@ -10,42 +10,38 @@ I’m **Amir Elfalw**, a **Ai & Computer Vision Engineer**
 
 ---
 
-# Tech Stack
+### 🛠️ Languages & Tools
 
-[![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cplusplus.com/)
-[![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+<a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"></a>
+<a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"></a>
 
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+<br>
 
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)](https://docs.ultralytics.com/)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-007f00?style=for-the-badge&logo=google&logoColor=white)](https://google.github.io/mediapipe/)
-[![Albumentations](https://img.shields.io/badge/Albumentations-ff69b4?style=for-the-badge&logoColor=white)](https://albumentations.ai/)
-[![Segmentation Models](https://img.shields.io/badge/SegmentationModels-008080?style=for-the-badge&logoColor=white)](https://github.com/qubvel/segmentation_models.pytorch)
-[![Detectron2](https://img.shields.io/badge/Detectron2-FF6F61?style=for-the-badge&logoColor=white)](https://github.com/facebookresearch/detectron2)
-[![MMDetection](https://img.shields.io/badge/MMDetection-6e5bff?style=for-the-badge&logoColor=white)](https://github.com/open-mmlab/mmdetection)
-[![Open3D](https://img.shields.io/badge/Open3D-6DCCFF?style=for-the-badge&logoColor=white)](http://www.open3d.org/)
+<a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"></a>
+<a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"></a>
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama-index&logoColor=white)](https://www.llamaindex.ai/)
-[![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-6A5ACD?style=for-the-badge&logoColor=white)](https://www.sbert.net/)
+<br>
 
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge&logoColor=white)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-FF6600?style=for-the-badge&logoColor=white)](https://plotly.com/)
-[![mlflow](https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue)](https://mlflow.org/)
-[![Weights & Biases](https://img.shields.io/badge/W%26B-FF1A1A?style=for-the-badge&logo=wandb&logoColor=white)](https://wandb.ai/)
+<a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"></a>
+<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"></a>
+<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"></a>
+<a href="https://keras.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45" height="45" alt="Keras"></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"></a>
 
-[![PyFirmata](https://img.shields.io/badge/PyFirmata-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/tino/pyFirmata)
-[![MicroPython](https://img.shields.io/badge/MicroPython-333333?style=for-the-badge&logo=micropython&logoColor=white)](https://micropython.org/)
-[![PySerial](https://img.shields.io/badge/PySerial-8A2BE2?style=for-the-badge&logoColor=white)](https://pyserial.readthedocs.io/)
+<br>
+
+<a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/logandark/simple-icons/master/icons/langchain.svg" width="45" height="45" alt="LangChain"></a>
+<a href="https://www.llamaindex.ai/"><img src="https://cdn. worldvectorlogo.com/logos/llama-index.svg" width="45" height="45" alt="LlamaIndex"></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"></a>
+<a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"></a>
+
+<br>
+
+<a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"></a>
+<a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MicroPython_logo.svg" width="45" height="45" alt="MicroPython"></a>
+<a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" width="45" height="45" alt="MLFlow"></a>
+<a href="https://wandb.ai/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weightsandbiases.svg" width="45" height="45" alt="W&B"></a>
