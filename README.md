@@ -1,96 +1,32 @@
-# I’m **Amir Elfalw**, an **AI & Computer Vision Engineer** 🚀  
+# I’m **Amir Elfalw**, an **AI & Computer Vision Engineer** 🚀
 
-Passionate about building intelligent systems that transform data into real-world impact.  
-Focused on **Deep Learning, Computer Vision, and Edge AI Solutions**.
-
----
-
-### 🌍 Connect With Me
+## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/amir-elfalw-b3a3212b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/amir.elref3i/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35">
-  </a>
-  &nbsp;
-  <a href="https://x.com/Amirelfalw">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" height="35">
-  </a>
-  &nbsp;
-  <a href="mailto:amer003100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
-  </a>
+<a href="https://www.linkedin.com/in/amir-elfalw-b3a3212b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+<a href="https://www.instagram.com/amir.elref3i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
+<a href="https://x.com/Amirelfalw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="35" width="45" /></a>
+<a href="mailto:amer003100@gmail.com"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="35" width="45" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amerelfalwo&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerelfalwo&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amerelfalwo&theme=vision-friendly-dark&hide_border=true&background=0D1117"/>
-</p>
-
----
-
-## 🧠 Core Expertise
-
-- Computer Vision (Detection • Segmentation • Classification)
-- Deep Learning Model Optimization
-- Medical Image Analysis
-- AI Model Deployment (APIs + Docker)
-- Edge AI & Embedded Integration
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
-</p>
-
-### 🤖 AI & Computer Vision
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="60"/>
-</p>
-
-### ⚙️ Backend & DevOps
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
-</p>
-
-### 🔌 Embedded & Edge
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="60"/>
-</p>
-
-### 🧩 AI Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pinecone-00BFFF?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Vision
-
-I aim to design and deploy intelligent AI systems that bridge research and real-world applications — from medical imaging to edge devices.
-
----
-
-<p align="center">
-  ⭐ Always building. Always learning. Always improving.
+<p align="left">
+  <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="70" alt="C"></a> &nbsp;
+  <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"></a> &nbsp;
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70" alt="Python"></a> &nbsp;
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="70" height="70" alt="PyTorch"></a> &nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="70" height="70" alt="TensorFlow"></a> &nbsp;
+  <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="70" height="70" alt="OpenCV"></a> &nbsp;
+  <a href="https://docs.ultralytics.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ultralytics.svg" width="70" height="70" alt="YOLO"></a> &nbsp;
+  <a href="https://google.github.io/mediapipe/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="70" height="70" alt="MediaPipe"></a> &nbsp;
+  <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="70" height="70" alt="LangChain"></a> &nbsp;
+  <a href="https://www.pinecone.io/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" width="70" height="70" alt="Pinecone"></a> &nbsp;
+  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"></a> &nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70" height="70" alt="Pandas"></a> &nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="70" height="70" alt="FastAPI"></a> &nbsp;
+  <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="70" height="70" alt="Arduino"></a> &nbsp;
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" height="70" alt="Docker"></a> &nbsp;
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" height="70" alt="Git"></a>
 </p>
