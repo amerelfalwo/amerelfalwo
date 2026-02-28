@@ -1,4 +1,4 @@
-# I’m **Amir Elfalw**, an **AI & Computer Vision Engineer** 
+# I’m **Amir Elfalw**, an **AI Engineer** 
 
 ## Socials
 <p align="left">
