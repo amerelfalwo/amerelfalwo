@@ -22,11 +22,14 @@
   <a href="https://docs.ultralytics.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ultralytics.svg" width="70" height="70" alt="YOLO"></a> &nbsp;
   <a href="https://google.github.io/mediapipe/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="70" height="70" alt="MediaPipe"></a> &nbsp;
   <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="70" height="70" alt="LangChain"></a> &nbsp;
-  <a href="https://www.pinecone.io/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" width="70" height="70" alt="Pinecone"></a> &nbsp;
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"></a> &nbsp;
+<img src="https://cdn.simpleicons.org/langchain/white" width="70" height="70" alt="LangChain">  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"></a> &nbsp;
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70" height="70" alt="Pandas"></a> &nbsp;
   <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="70" height="70" alt="FastAPI"></a> &nbsp;
   <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="70" height="70" alt="Arduino"></a> &nbsp;
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" height="70" alt="Docker"></a> &nbsp;
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" height="70" alt="Git"></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amerelfalwo&theme=vision-friendly-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
