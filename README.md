@@ -29,7 +29,7 @@
   <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="50" height="50" alt="Keras"></a> &nbsp;
   <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"></a> &nbsp;
   <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="50" height="50" alt="LangChain"></a> &nbsp;
-  <a href="https://www.llamaindex.ai/"><img src="https://cdn.worldvectorlogo.com/logos/llama-index.svg" width="50" height="50" alt="LlamaIndex"></a>
+  
 </p>
 
 <p align="left">
@@ -51,7 +51,6 @@
 #### 🔌 Embedded & MLOps
 <p align="left">
   <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"></a> &nbsp;
-  <a href="https://micropython.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MicroPython_logo.svg" width="50" height="50" alt="MicroPython"></a> &nbsp;
   <a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" width="50" height="50" alt="MLFlow"></a> &nbsp;
   <a href="https://wandb.ai/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weightsandbiases.svg" width="50" height="50" alt="W&B"></a> &nbsp;
   <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"></a>
