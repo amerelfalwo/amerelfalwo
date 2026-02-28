@@ -1,16 +1,16 @@
 # I’m **Amir Elrefai**, an **AI Engineer** 
 
-## Socials
+## Contact Me
 <p align="left">
-<a href="https://www.linkedin.com/in/amir-elfalw-b3a3212b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
-<a href="https://www.instagram.com/amir.elref3i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
-<a href="https://x.com/Amirelfalw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="35" width="45" /></a>
-<a href="mailto:amer003100@gmail.com"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/amir-elfalw-b3a3212b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" width="65" /></a>&nbsp&nbsp;
+<a href="https://www.instagram.com/amir.elref3i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="70" width="65" /></a>&nbsp&nbsp;
+<a href="https://x.com/Amirelfalw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="70" width="65" /></a>&nbsp&nbsp;
+<a href="mailto:amer003100@gmail.com"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="70" width="65" /></a>
 </p>
 
 ---
 
-### Technical Skills
+### Skills
 
 <p align="left">
   <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="85" height="85" alt="C"></a> &nbsp;
@@ -31,6 +31,9 @@
   <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="85" height="85" alt="Arduino"></a> &nbsp;
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="85" height="85" alt="Docker"></a> &nbsp;
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="85" height="85" alt="Git"></a>
+<a href="https://keras.io/">
+  <img src="https://cdn.simpleicons.org/keras/white" width="85" height="85" alt="Keras">
+</a>
 </p>
 
 ---
