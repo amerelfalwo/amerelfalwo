@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amerelfalwo/amerelfalwo/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amerelfalwo/amerelfalwo/main/light.svg">
-  <img alt="Amir Elrefai" src="https://raw.githubusercontent.com/amerelfalwo/amerelfalwo/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amerelfalwo/amerelfalwo/main/dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amerelfalwo/amerelfalwo/main/light.svg?v=2">
+  <img alt="Amir Elrefai" src="https://raw.githubusercontent.com/amerelfalwo/amerelfalwo/main/light.svg?v=2">
 </picture>
 </div>
 
