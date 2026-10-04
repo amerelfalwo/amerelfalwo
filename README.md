@@ -33,93 +33,82 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&customColorList=0,FF2A6D,05D9E8,B967FF&height=3&section=header" width="100%" alt=""/></p>
 
-<h2 align="center">// CURRENTLY</h2>
-
-<table align="center">
-  <tr><td><code>01</code></td><td>Production RAG pipelines (LangChain, FastAPI)</td></tr>
-  <tr><td><code>02</code></td><td>Agentic RAG assistants</td></tr>
-  <tr><td><code>03</code></td><td>Guardrailed LLM agents with PII protection</td></tr>
-</table>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&customColorList=0,FF2A6D,05D9E8,B967FF&height=3&section=header" width="100%" alt=""/></p>
-
 <h2 align="center">// TECH_STACK</h2>
 
-<p align="center"><code>[ LANGUAGES ]</code></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=F9F002&labelColor=0D0221&color=0D0221" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=F9F002&labelColor=0D0221&color=0D0221" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C#-0D0221?style=for-the-badge&logo=dotnet&logoColor=B967FF&labelColor=0D0221&color=0D0221" alt="C#"/>
-</p>
-
-<p align="center"><code>[ AI / ML / VISION ]</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF2A6D&labelColor=0D0221&color=0D0221" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=F9F002&labelColor=0D0221&color=0D0221" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-0D0221?style=for-the-badge&logo=keras&logoColor=FF2A6D&labelColor=0D0221&color=0D0221" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-0D0221?style=for-the-badge&logo=scikitlearn&logoColor=F9F002&labelColor=0D0221&color=0D0221" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-0D0221?style=for-the-badge&logo=xgboost&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=B967FF&labelColor=0D0221&color=0D0221" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=B967FF&labelColor=0D0221&color=0D0221" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/ONNX-0D0221?style=for-the-badge&logo=onnx&logoColor=F8FAFC&labelColor=0D0221&color=0D0221" alt="ONNX"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-0D0221?style=for-the-badge&logo=huggingface&logoColor=F9F002&labelColor=0D0221&color=0D0221" alt="Hugging Face"/>
-</p>
-
-<p align="center"><code>[ GENAI / LLM ]</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=langchain&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-0D0221?style=for-the-badge&logo=langgraph&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-0D0221?style=for-the-badge&logo=llama&logoColor=F8FAFC&labelColor=0D0221&color=0D0221" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/CrewAI-0D0221?style=for-the-badge&logo=crewai&logoColor=FF2A6D&labelColor=0D0221&color=0D0221" alt="CrewAI"/>
-</p>
-
-<p align="center"><code>[ BACKEND ]</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/.NET-0D0221?style=for-the-badge&logo=dotnet&logoColor=B967FF&labelColor=0D0221&color=0D0221" alt=".NET"/>
-</p>
-
-<p align="center"><code>[ FRONTEND ]</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-0D0221?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC&labelColor=0D0221&color=0D0221" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="Tailwind"/>
-</p>
-
-<p align="center"><code>[ DATA ]</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-0D0221?style=for-the-badge&logo=mongodb&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Qdrant-0D0221?style=for-the-badge&logo=qdrant&logoColor=FF2A6D&labelColor=0D0221&color=0D0221" alt="Qdrant"/>
-</p>
-
-<p align="center"><code>[ DEVOPS / TOOLS ]</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=05D9E8&labelColor=0D0221&color=0D0221" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF2A6D&labelColor=0D0221&color=0D0221" alt="Git"/>
-  <img src="https://img.shields.io/badge/uv-0D0221?style=for-the-badge&logo=uv&logoColor=B967FF&labelColor=0D0221&color=0D0221" alt="uv"/>
-  <img src="https://img.shields.io/badge/Ubuntu-0D0221?style=for-the-badge&logo=ubuntu&logoColor=FF2A6D&labelColor=0D0221&color=0D0221" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=F9F002&labelColor=0D0221&color=0D0221" alt="Linux"/>
+  <img src="assets/skills-orbit.svg" width="100%" alt="Skills and tools: Python, C++, SQL, JavaScript, TypeScript, C#, PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost, OpenCV, Pandas, NumPy, ONNX, Hugging Face, LangChain, LangGraph, LlamaIndex, CrewAI, FastAPI, Node.js, .NET, React, Next.js, Tailwind, PostgreSQL, MongoDB, Qdrant, Docker, Git, uv, Linux, Ubuntu"/>
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&customColorList=0,FF2A6D,05D9E8,B967FF&height=3&section=header" width="100%" alt=""/></p>
 
 <h2 align="center">// PROJECTS</h2>
 
-| Project | Problem | Solution | Stack | Result |
-|---|---|---|---|---|
-| **Guardrailed Chat Agent** | Chat agents need safety and privacy controls | LangChain agent with safety, PII and human-in-the-loop middleware | LangChain, FastAPI, Docker | [metric] |
-| **Document Extraction and Classification** | Manual reading of scanned documents | VLM text extraction plus a classification model | VLM, PyTorch | [metric] |
-| **Agentic RAG Assistant** | Slow expert lookup in large document sets | Agentic retrieval-augmented assistant | LangChain, Qdrant | [metric] |
-| **Multi-Agent Procurement** | Slow e-commerce sourcing | Multi-agent procurement workflow | CrewAI, Gemini, Groq | [metric] |
-| **Brain Tumour Detection** | Early detection from MRI scans | Deep-learning classifier | PyTorch, OpenCV | [metric] |
-| **Thyroid Cancer Model** | Risk prediction | ML classification model | Scikit-Learn, XGBoost | [metric] |
-| **Multi-Tenant SaaS / ERP** | Business operations in one platform | Multi-tenant full-stack system | [stack] | [metric] |
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <b>Guardrailed Chat Agent</b><br/>
+      <sub><code>PROBLEM</code> Chat agents need safety and privacy controls.</sub><br/>
+      <sub><code>SOLUTION</code> LangChain agent with safety, PII and human-in-the-loop middleware, served via FastAPI.</sub><br/>
+      <sub><code>STACK</code> LangChain · FastAPI · Docker</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Document Extraction and Classification</b><br/>
+      <sub><code>PROBLEM</code> Manual reading of scanned documents is slow.</sub><br/>
+      <sub><code>SOLUTION</code> VLM-based text extraction followed by a classification model.</sub><br/>
+      <sub><code>STACK</code> VLM · PyTorch</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Agentic RAG Assistant</b><br/>
+      <sub><code>PROBLEM</code> Experts lose time searching large document sets.</sub><br/>
+      <sub><code>SOLUTION</code> Agentic retrieval-augmented assistant with tool calling.</sub><br/>
+      <sub><code>STACK</code> LangChain · Qdrant</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Multi-Agent Procurement</b><br/>
+      <sub><code>PROBLEM</code> E-commerce sourcing is slow and manual.</sub><br/>
+      <sub><code>SOLUTION</code> Multi-agent workflow that researches and compares suppliers.</sub><br/>
+      <sub><code>STACK</code> CrewAI · Gemini · Groq</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Brain Tumour Detection</b><br/>
+      <sub><code>PROBLEM</code> Early detection from MRI scans.</sub><br/>
+      <sub><code>SOLUTION</code> Deep-learning image classifier.</sub><br/>
+      <sub><code>STACK</code> PyTorch · OpenCV</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Thyroid Cancer Model</b><br/>
+      <sub><code>PROBLEM</code> Risk prediction from clinical features.</sub><br/>
+      <sub><code>SOLUTION</code> Machine-learning classification model.</sub><br/>
+      <sub><code>STACK</code> Scikit-Learn · XGBoost</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Multi-Tenant SaaS / ERP</b><br/>
+      <sub><code>PROBLEM</code> Businesses need one platform for operations.</sub><br/>
+      <sub><code>SOLUTION</code> Multi-tenant full-stack system.</sub><br/>
+      <sub><code>STACK</code> [stack]</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Portfolio Website</b><br/>
+      <sub><code>PROBLEM</code> A single place to present my work.</sub><br/>
+      <sub><code>SOLUTION</code> Personal portfolio with interactive skills visualisation.</sub><br/>
+      <sub><code>STACK</code> [stack]</sub><br/>
+      <sub><code>RESULT</code> [metric] &nbsp;|&nbsp; <code>LINK</code> [repo]</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><sub>Repository links will be added once the repos are renamed and pinned.</sub></p>
 
