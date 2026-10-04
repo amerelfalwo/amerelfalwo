@@ -1,3 +1,6 @@
 README_backup.md
 replace_svg.py
 .vscode
+.playwright-mcp/
+__pycache__/
+*.pyc
