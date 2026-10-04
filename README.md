@@ -15,9 +15,6 @@
   <a href="https://www.instagram.com/amir.elref3i/"><img src="https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=FF2A6D" alt="Instagram"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amerelfalwo&label=PROFILE%20VIEWS&color=FF2A6D&labelColor=0D0221&style=for-the-badge" alt="Profile views"/>
-</p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&customColorList=0,FF2A6D,05D9E8,B967FF&height=3&section=header" width="100%" alt=""/></p>
 
