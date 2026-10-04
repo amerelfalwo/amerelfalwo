@@ -112,14 +112,6 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&customColorList=0,FF2A6D,05D9E8,B967FF&height=3&section=header" width="100%" alt=""/></p>
 
-<h2 align="center">// ACTIVITY</h2>
-
-<p align="center">
-  <img src="assets/contributions.svg" width="100%" alt="GitHub contribution graph"/>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&customColorList=0,FF2A6D,05D9E8,B967FF&height=3&section=header" width="100%" alt=""/></p>
-
 <h2 align="center">// STATS</h2>
 
 <p align="center">
@@ -132,8 +124,6 @@
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&customColorList=0,FF2A6D,05D9E8,B967FF&height=3&section=header" width="100%" alt=""/></p>
-
-<h2 align="center">// CONNECT</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-elfalw-b3a3212b8/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=05D9E8" alt="LinkedIn"/></a>
